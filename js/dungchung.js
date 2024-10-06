@@ -606,7 +606,7 @@ function addFooter() {
 
     <!-- ============== Footer ============= -->
     <div class="copy-right">
-        <p><a href="index.html">2TNG Phone Store</a> - All rights reserved © 2021 - Designed by
+        <p><a href="index.html">2TNG Phone Store</a> - All rights reserved © 2024 - Designed by
             <span style="color: #eee; font-weight: bold">group 5 KTPM</span></p>
     </div>`);
 }
